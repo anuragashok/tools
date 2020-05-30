@@ -1,6 +1,6 @@
 ## Tools / Utilities / Cheatsheets
 
-* ### Markdown
+* # Markdown
   * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* ### Favicon
+* # Favicon
   * https://realfavicongenerator.net/
