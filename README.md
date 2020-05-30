@@ -1,2 +1,2 @@
-# tools
-Reference for tools i use
+* Favicon
+  * https://realfavicongenerator.net/
